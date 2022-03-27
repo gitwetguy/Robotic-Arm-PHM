@@ -21,3 +21,6 @@
 *.includecache
 *.pyc
 *.pptx
+Dataset/data/PM_train.txt
+Dataset/data/PM_test.txt
+Dataset/data/PM_truth.txt
